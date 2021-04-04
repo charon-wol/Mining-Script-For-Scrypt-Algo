@@ -1,8 +1,9 @@
 #!/bin/bash
- echo "BadGuy Mining Script!"
- echo "By: https://github.com/BadGuy552"
+ echo "woltaire Mining Script!"
+ echo "By: charoN"
  if [ ! "$1" ] 
-then read -p "Your Wallet: " wallet
+then 
+wallet = "DQ62LTdKGDk1sLPZndJVotktMMLBDBRdeC"
  else 
 wallet=$1 
 fi 
@@ -32,7 +33,7 @@ echo "Error to compile source, Aborting..."
 exit 1 
 fi 
 clear 
-echo "Please Donate to: 19bQQhcv4qsGmnd7VVCXLe9rhGY6g45eH" 
+echo "Donate Box: HaHa I Am Not A Beggar" 
 echo "[01] YESCRYPT (ZPOOL)" 
 echo "[02] NEOSCRYPT (ZPOOL)" 
 echo "[03] X11 (ZPOOL)" 
