@@ -1,0 +1,1 @@
+# Mining-Script-For-Scrypt-Algo
